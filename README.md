@@ -16,7 +16,7 @@ The changelog can:
 
 It can integrate with Jira, Redmine, GitLab and/or GitHub to retrieve the title of issues.
 
-## Usage
+## Usage testing
 
 This software can be used:
 
